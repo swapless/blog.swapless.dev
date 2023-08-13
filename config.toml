@@ -1,3 +1,42 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://blog.swapless.dev/'
+
+title = 'blog.swapless.dev'
+author = 'Swapnil Sahu'
+theme = 'risotto'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+
+
+paginate = 3
+enableInlineShortcodes = true
+
+sectionPagesMenu = "main"
+
+[params]
+
+[params.theme]
+palette = "gruvbox-dark"
+mode = "dark-mode"
+
+# Sidebar: about/bio
+
+[params.about]
+title = "Swapless"
+description = "Everything, Everywhere, ~~all at once~~ concurrently."
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "tags"
+    url = "/tags"
+    weight = 15
+
+[taxonomies]
+category = "categories"
+tag = "tags"
