@@ -37,6 +37,12 @@ description = "Everything, Everywhere, ~~all at once~~ concurrently."
     url = "/tags"
     weight = 15
 
+  [[menu.main]]
+    identifier = "recommendations"
+    name = "recommendations"
+    url = "/posts/recommendations/"
+    weight = 20
+
 [taxonomies]
 category = "categories"
 tag = "tags"
