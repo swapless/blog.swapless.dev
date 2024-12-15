@@ -11,7 +11,6 @@ Welcome to my corner of the internet! This is where I document my adventures as 
 
 - [Profiling: A Bold Approach to Optimization]({{< relref "posts/profiling.md" >}})
 - [Recommendations: Tools, Reads, and More]({{< relref "posts/recommendations.md" >}})
-- [Weird Git: Tales of Unusual Version Control Adventures]({{< relref "posts/weird-git.md" >}})
 
 ## About Me
 
