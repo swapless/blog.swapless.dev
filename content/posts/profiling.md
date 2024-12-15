@@ -6,7 +6,7 @@ tags:
 title: "Profiling Hidden Bottlenecks: Learning Through Deliberate Code Regressions"
 slug: "profiling-deliberate-code-regressions"
 date: 2024-12-15T15:44:13+05:30
-draft: true
+draft: false
 ---
 
 Reducing unknown-unknowns is a unique challenge—after all, how can you tackle something you don’t even know exists? It’s like looking for a shadow in the dark. You can start by reading up on new topics, but that only takes you so far. The information is limited by what’s already known and documented. Profiling, on the other hand, is a hands-on way to dive into the fine details of your system, bringing hidden problems to light.
