@@ -11,7 +11,7 @@ draft: false
 
 Reducing unknown-unknowns is a unique challenge—after all, how can you tackle something you don’t even know exists? It’s like looking for a shadow in the dark. You can start by reading up on new topics, but that only takes you so far. The information is limited by what’s already known and documented. Profiling, on the other hand, is a hands-on way to dive into the fine details of your system, bringing hidden problems to light.
 
-But let’s be honest—profiling can be intimidating. It’s often like opening Pandora’s box, with more complexity than you bargained for. After spending way too much time profiling BidAPI code and failing to understand what each code invocation does, I came up with a better structure (at least for me) for learning how to profile: **deliberately introducing performance regressions into code.**
+But let’s be honest—profiling can be intimidating. It’s often like opening Pandora’s box, with more complexity than you bargained for. After spending way too much time profiling legacy code and failing to understand what each code invocation does, I came up with a better structure (at least for me) for learning how to profile: **deliberately introducing performance regressions into code.**
 
 ## The Counterintuitive Approach
 
