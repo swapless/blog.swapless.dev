@@ -4,15 +4,6 @@ date: 2023-08-13T19:33:55+05:30
 draft: false
 ---
 
----
-
-title: "Recommendations: Tools, Reads, and More"
-description: "A curated list of my favorite music, books, videos, and tools."
-
----
-
-# Recommendations
-
 Maybe I will remember to check back on this list after 30 years and find things that I forgot about. Things which occupied a significant portion of my bildungsroman.
 
 ---
