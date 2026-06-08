@@ -6,7 +6,7 @@ theme = 'risotto'
 languageCode = 'en-us'
 
 
-paginate = 3
+pagination.pagerSize = 3 
 enableInlineShortcodes = true
 
 sectionPagesMenu = "main"
